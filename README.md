@@ -7,6 +7,26 @@ Feel free to utilise these slides and notebooks for your learnings.
 
 **Resources**
 
+**Module-1** 
+- Introduction to NLP, NLP Applications, Corpus, Tokenization, Normalization, Stemming, Lemmatization, Stop Words Removal.
+- [Slides](Module-1-Slides.pdf)
+- [Notebook](Module_1.ipynb)
+  
+**Module-2**
+- Transformers, Attention, Transfer Learning, BERT Model, Fine Tuning.
+- [Slides](Module-2-Slides.pdf)
+- [Notebook](Module_2.ipynb)
+  
+**Module-3**
+- Understanding problem statement, understanding the dataset, text preprocessing.
+- [Slides](Module-3-Slides.pdf)
+- [Notebook](Module_3.ipynb)
+
+**Module-4**
+- Logistic Regression, Naive Bayes, Confusion Matrix, TF-IDF, etc.
+- [Slides](Module-4-Slides.pdf)
+
+
 **Youtube Video Links :**
 1. Logistic Regression : https://youtu.be/f6PNgEbopfQ
 2. Naive Bayes : https://youtu.be/Pv75s9I8-mA
