@@ -11,4 +11,4 @@ This folder contains some of the tasks assigned to students for exploring and un
    - Performance Metrics : https://youtu.be/Fb6dXbDjCA8
 2. Write 5 points that you learned from each video.
 3. Example: If you are learning Logistic Regression, Write 5 points that you took from the video.
-4. Create a file with your name, eg: Pallavi_Task_2.
+4. Create a file with your name, eg: Task2_PallaviPannu.
