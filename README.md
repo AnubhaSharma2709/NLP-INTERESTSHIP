@@ -23,9 +23,13 @@ Feel free to utilise these slides and notebooks for your learnings.
 - [Notebook](Module_3.ipynb)
 
 **Module-4**
-- Logistic Regression, Naive Bayes, Confusion Matrix, TF-IDF, etc.
+- Logistic Regression, Naive Bayes, Confusion Matrix, TF-IDF, Task 1 Solution, etc.
 - [Slides](Module-4-Slides.pdf)
+- [Notebook](Module_4.ipynb)
 
+**Module-5**
+- EDA Graphs Explained, Boxplots, Voilon Plots, Implementation of various ML Algorithms, etc.
+- [Slides](Module-5-Slides.pdf)
 
 **Youtube Video Links :**
 1. Logistic Regression : https://youtu.be/f6PNgEbopfQ
