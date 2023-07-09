@@ -41,4 +41,9 @@ Feel free to utilise these slides and notebooks for your learnings.
 1. BERT - https://medium.com/@pallavipannu678/bidaf-vs-bert-observations-f79c79425b6d
 2. TF-IDF - https://medium.com/@pallavipannu678/a-simple-chatbot-kissanbot-bb701a1b218a
 
+**Links for K-Fold CV and Stratified K-Fold Sampling**
+1. https://www.analyticsvidhya.com/blog/2022/02/k-fold-cross-validation-technique-and-its-essentials/
+2. https://www.geeksforgeeks.org/stratified-k-fold-cross-validation/
+3. https://towardsdatascience.com/what-is-stratified-cross-validation-in-machine-learning-8844f3e7ae8e
+
 
