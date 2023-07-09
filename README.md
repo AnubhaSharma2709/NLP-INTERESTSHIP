@@ -28,7 +28,7 @@ Feel free to utilise these slides and notebooks for your learnings.
 - [Notebook](Module_4.ipynb)
 
 **Module-5**
-- EDA Graphs Explained, Boxplots, Voilon Plots, Implementation of various ML Algorithms, etc.
+- EDA Graphs Explained, Boxplots, Voilon Plots, Implementation of various ML Algorithms, K-Fold Cross Validation, Stratified K-Fold Sampling etc.
 - [Slides](Module-5-Slides.pdf)
 - [Notebook](Module_5.ipynb)
 
