@@ -30,6 +30,7 @@ Feel free to utilise these slides and notebooks for your learnings.
 **Module-5**
 - EDA Graphs Explained, Boxplots, Voilon Plots, Implementation of various ML Algorithms, etc.
 - [Slides](Module-5-Slides.pdf)
+- [Notebook](Module_5.ipynb)
 
 **Youtube Video Links :**
 1. Logistic Regression : https://youtu.be/f6PNgEbopfQ
