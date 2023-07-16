@@ -32,6 +32,15 @@ Feel free to utilise these slides and notebooks for your learnings.
 - [Slides](Module-5-Slides.pdf)
 - [Notebook](Module_5.ipynb)
 
+**Module-6**
+- Implementation using BERT Model Details Explained
+- [Slides](Module-6-Slides.pdf)
+- [Notebook](Module_6.ipynb)
+  
+**Module-7**
+- Actual Implementation
+- [Notebook](Final_Module.ipynb)
+  
 **Youtube Video Links :**
 1. Logistic Regression : https://youtu.be/f6PNgEbopfQ
 2. Naive Bayes : https://youtu.be/Pv75s9I8-mA
